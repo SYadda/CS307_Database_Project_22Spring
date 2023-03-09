@@ -1,0 +1,3 @@
+javac -encoding UTF-8 -cp ".;C:\project2\java_loader\lib\*"methods.java
+
+java -cp ".;C:\project2\java_loader\lib\*"methods

@@ -1,0 +1,27 @@
+Get product by product number S03485W :
+       quantity        :         model        :                      supply center
+---------------------------------------------------------------------------------------------
+             0	: SoundCardE9	: America
+             0	: SoundCard93	: America
+             0	: SoundCard61	: America
+             0	: SoundCard61	: Asia
+             0	: SoundCardE9	: Asia
+             0	: SoundCard93	: Asia
+             0	: SoundCardE9	: Eastern China
+             0	: SoundCard93	: Eastern China
+             0	: SoundCard61	: Eastern China
+             0	: SoundCard93	: Europe
+             0	: SoundCard61	: Europe
+             0	: SoundCardE9	: Europe
+             0	: SoundCard61	: Hong Kong, Macao and Taiwan regions of China
+             0	: SoundCardE9	: Hong Kong, Macao and Taiwan regions of China
+             0	: SoundCard93	: Hong Kong, Macao and Taiwan regions of China
+             0	: SoundCardE9	: Northern China
+             0	: SoundCard93	: Northern China
+             0	: SoundCard61	: Northern China
+             0	: SoundCardE9	: Southern China
+             0	: SoundCard61	: Southern China
+             94	: SoundCard93	: Southern China
+             0	: SoundCardE9	: Southwestern China
+             0	: SoundCard93	: Southwestern China
+             0	: SoundCard61	: Southwestern China

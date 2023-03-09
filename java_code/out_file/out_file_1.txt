@@ -1,0 +1,16 @@
+Get product by contract number CSE0000412 :
+"contract number"—"contract manager name"—"enterprise name"—"supply center
+------------------------------------------------------------------------------------------------------------
+   CSE0000412	|   Tao Binzhu	|   Agricultural Bank of China	|   Northern China
+
+
+
+ "salesman_name"—"quantity"—"unit_price"—"estimate_delivery_date"—"lodgement_date"—"product model" 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Tao Erqing	|   117	|   420	|   2022-04-17	|   2022-04-16	|   VideoServer62
+Angelica Harris	|   398	|   140	|   2022-04-17	|   2022-04-15	|   Repeater97
+Cheryl White	|   134	|   420	|   2022-04-16	|   2022-04-15	|   All-In-OnePrintingMachineW9
+Gracie Thomas	|   476	|   10	|   2022-04-16	|   2022-04-17	|   GameConsoleFilmN3
+Tao Erqing	|   146	|   500	|   2022-04-17	|   2022-04-18	|   MobilePhoneFilm78
+June Hall	|   73	|   500	|   2022-04-17	|   2022-04-15	|   MobilePhoneFilm78
+Wang Lisheng	|   132	|   30	|   2022-04-16	|   2022-04-15	|   PrinterH8
